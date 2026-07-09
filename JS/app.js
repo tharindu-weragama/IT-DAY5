@@ -122,7 +122,7 @@ switch (day) {
     console.log(i);
 }*/
 
-// while loop 
+// while loop
 
 /*let i = 0;
 while (i <= 10) {
@@ -138,3 +138,32 @@ do {
     i++;
 } while (i <= 10);
  */
+
+// functions
+
+/*function add(x, y) {
+    return x + y;
+}
+
+let result = add(10,20)
+console.log(result);*/
+
+
+// ARRAY
+
+/*let numbers = [1, true, 3, "saman", 5];
+
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
+}*/
+
+//OBJECT
+
+/*let customer = {
+    name: "saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.0
+}
+
+console.log(customer);*/
