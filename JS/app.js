@@ -80,3 +80,61 @@ if (true && false) {
     console.log("false")
 }
 */
+
+// if / else statements
+
+/*let x = 10;
+let y = 20;
+
+if(x>y){
+    console.log("x is grater than y");
+} else if (x<y){
+    console.log("x is less than y");
+}else{
+    console.log("x is equal to y") ;
+}*/
+
+// switch statements
+
+/*let day = 2;
+
+switch (day) {
+    case 1:
+        console.log("Monday");
+        break;
+    case 2:
+        console.log("Tuesday");
+        break;
+
+    case 3:
+        console.log("Wednesday");
+        break;
+
+    default:
+        console.log("Invalid day");
+
+}*/
+
+//Loops
+// for loop
+
+/*for(let i = 0 ; i<10; i++){
+    console.log(i);
+}*/
+
+// while loop 
+
+/*let i = 0;
+while (i <= 10) {
+    console.log(i);
+    i++;
+}*/
+
+//do while
+
+/*let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i <= 10);
+ */
